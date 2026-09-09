@@ -1,2 +1,4 @@
 # CLI-Defender
 Plataforma interactiva tipo consola para el aprendizaje de comandos básicos mediante gamificación.
+
+El producto mínimo viable de CLI Defender consistirá en una aplicación de escritorio desarrollada en Godot Engine 4.x que incluya una interfaz tipo terminal, un sistema de entrada y validación de comandos, retroalimentación inmediata y tres niveles progresivos. El usuario deberá poder recibir instrucciones, ingresar comandos, identificar mediante la respuesta del sistema si son correctos o incorrectos y avanzar entre los niveles al completar los retos. La aplicación funcionará de manera local y segura, sin ejecutar comandos directamente sobre el sistema operativo. El MVP se considerará funcional cuando un usuario pueda completar los tres niveles de principio a fin sin errores críticos.
